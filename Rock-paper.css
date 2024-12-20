@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: Arial;
+}
+.tittle {
+  font-size: 30px;
+  font-weight: bold;
+}
+.move-emoji {
+  height: 50px;
+}
+.move-button {
+  background-color: transparent;
+  border: 3px solid white;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.js-result {
+  font-weight: bold;
+  font-size: 25px;
+  margin-top: 40px;
+}
+.score {
+  margin-top: 60px;
+}
+.reset-score {
+  background-color: white;
+  color: black;
+  border: none;
+  font-size: 15px;
+  padding: 10px 8px;
+  font-weight: bold;
+  cursor: pointer;
+}
